@@ -1,5 +1,3 @@
-#include "Joystick2.h"
-
 # AtariPaddleUSB
 Using ATARI Paddle Controllers in a PC via USB
 
